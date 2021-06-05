@@ -9,6 +9,7 @@ Há duas macros inclusas em "shortcuts_macros_de_revisao.xml"
 "Search doublew" Macro para achar palavras repetidas
 
 Copie o código contido dentro do arquivo e cole o código antes da seguinte linha em seu arquivo shortcuts.xml:
+
     </Macros>
     
 Para acessar a pasta na qual Notepad++ guarda shortcuts.xml, digite o seguinte na barra de endereços do Windows Explorer:
