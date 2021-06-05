@@ -1,0 +1,9 @@
+No menu "Macro", escolha "run a macro multiple times", na dropbox escolha a Macro a ser executada e clique em 'Run' para encontrar a próxima ocorrência. Abaixo, trecho de texto para testar a funcionalidade das macros.  
+
+===================
+
+O autor destas destas viagens, Sr. Lemuel Gulliver, é meu amigo íntimo e antigo; há  algum parentesco entre nós por parte de mãe...
+
+Por volta de !três!! anos atrás, Sr.. Gulliver... comprou um pequeno terreno, com uma casa conveniente, perto de Newark, em Nottinghamshire, sua terra natal; onde ele agora vive aposentado, mas em boa relação com seus vizinhos.
+
+Texto aleatório: ?? não é o mesmo que ?

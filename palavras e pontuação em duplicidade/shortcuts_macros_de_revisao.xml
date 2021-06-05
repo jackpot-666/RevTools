@@ -1,0 +1,14 @@
+        <Macro name="Search doublew" Ctrl="no" Alt="no" Shift="no" Key="0">
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="(\b\S+\b)\x20\1" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1702" wParam="0" lParam="770" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1" sParam="" />
+        </Macro>
+        <Macro name="Search double." Ctrl="no" Alt="no" Shift="no" Key="0">
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="((?&lt;!\x20{1})\x20{2}(?!\x20{1}))|((?&lt;!\.{1})\.{2}(?!\.{1}))|((?&lt;!\!{1})\!{2}(?!\!{1}))|((?&lt;!\?{1})\?{2}(?!\?{1}))" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1702" wParam="0" lParam="770" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1" sParam="" />
+        </Macro>
